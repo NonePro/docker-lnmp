@@ -1,1 +1,1 @@
-FROM daocloud.io/library/mysql:latest
+FROM daocloud.io/library/mysql:5.7
